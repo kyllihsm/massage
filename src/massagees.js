@@ -1,0 +1,1 @@
+import { getPersons } from './get-persons'
